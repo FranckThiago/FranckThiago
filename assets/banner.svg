@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Franck Eric Abouna — APISNIX</title>
+  <desc id="desc">Founder of APISNIX. SaaS, VoIP and AI automation.</desc>
+  <rect width="1280" height="360" fill="#0000FF"/>
+  <path d="M890 0h390v360H760z" fill="#FFFFFF" opacity="0.08"/>
+  <path d="M1040 0h240v210L1170 320H930z" fill="#FFFF00"/>
+  <path d="M0 314h820l-38 46H0z" fill="#FFFF00"/>
+  <circle cx="1102" cy="116" r="84" fill="none" stroke="#0000FF" stroke-width="12" opacity="0.92"/>
+  <path d="M1055 137l48-83 48 83h-29l-19-34-20 34z" fill="#0000FF"/>
+  <text x="72" y="112" fill="#FFFF00" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="5">FRANCK ERIC ABOUNA</text>
+  <text x="72" y="180" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800">Founder of APISNIX</text>
+  <text x="72" y="230" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500">Senior Systems &amp; Software Engineer</text>
+  <text x="72" y="276" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="2">SAAS  ·  VOIP  ·  AI AUTOMATION</text>
+  <text x="1008" y="260" fill="#0000FF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800">APISNIX</text>
+</svg>
