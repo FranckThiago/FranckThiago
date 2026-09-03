@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Franck Eric Abouna — Founder of APISNIX" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/apisnix-mark.png" alt="Logo APISNIX" width="72" />
+  <img src="./assets/banner-dark.png" alt="Franck Eric Abouna — Founder of APISNIX" width="100%" />
 </p>
 
 <h1 align="center">Franck Eric Abouna</h1>
