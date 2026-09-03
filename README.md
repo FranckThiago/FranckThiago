@@ -37,7 +37,7 @@ Je conçois, déploie et fais évoluer des produits numériques utiles aux entre
 
 ### [APISNIX Factures](https://factures.apisnix.com)
 
-SaaS mobile-first de facturation, devis, catalogue, gestion de boutiques, personnalisation graphique, PDF privés et fonctionnement hors ligne partiel. Le produit est actuellement exploité au Cameroun ; son extension internationale est en préparation.
+SaaS mobile-first de facturation, devis, catalogue, gestion de boutiques, personnalisation graphique, PDF privés et fonctionnement hors ligne partiel. Le produit est actif et son extension internationale est en préparation.
 
 ### [L'Eau du Bac](https://leaudubac.com)
 
