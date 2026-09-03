@@ -18,7 +18,7 @@
 
 > **From infrastructure to AI, I build practical systems that solve real business problems.**
 
-Je conçois, déploie et fais évoluer des produits numériques utiles aux entreprises : SaaS, CRM, outils métier, automatisations gouvernées, solutions VoIP et infrastructures Linux. Basé à Yaoundé, au Cameroun, je travaille à distance avec des équipes et partenaires internationaux.
+Je conçois, déploie et fais évoluer des produits numériques utiles aux entreprises : SaaS, CRM, outils métier, automatisations gouvernées, solutions VoIP et infrastructures Linux. Je travaille à distance avec des équipes et partenaires internationaux.
 
 ## Ce que je construis
 
